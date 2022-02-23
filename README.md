@@ -7,3 +7,6 @@ O seguinte teste tem por premissa ser um problema base (Ref. <a href="https://te
 OBJETIVO:
 * entender melhor seu jeito de atacar problemas desafiadores em amostras de mundo real, além de que, do modo que está estruturada
 * verificar mais detalhes de perfil profissional tais como organização, pontualidade e percepção de skills de data wrangling, validação e governança e programação Python. 
+
+ORGANIZAÇÃO:
+Cada tarefa está em um notebook separado ('cenário_1.ipynb', 'cenário_2.ipynb', 'cenário_3.ipynb')
